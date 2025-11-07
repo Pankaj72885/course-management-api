@@ -169,7 +169,7 @@ course-management-api/
 ├── .env                          # Environment variables (DO NOT COMMIT)
 ├── .env.example                  # Example environment variables
 ├── .gitignore                    # Files and directories to ignore
-├── jest.config.js                # Jest configuration
+├── package-lock.json             # JSON Package lock file
 ├── package.json                  # Project dependencies and scripts
 ├── README.md                     # This file
 └── server.js                     # Server entry point and Express app setup
