@@ -174,7 +174,6 @@ course-management-api/
 ├── README.md                     # This file
 └── server.js                     # Server entry point and Express app setup
 ```
-```
 
 ---
 
