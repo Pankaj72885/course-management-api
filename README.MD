@@ -191,8 +191,8 @@ course-management-api/
 
 ## 👨‍💻 Author
 
-**Your Name**
-- [Link to your GitHub Profile](https://github.com/pankaj72885)
-- [Link to your LinkedIn Profile](https://www.linkedin.com/in/pankaj-bepari-8aa69013a/)
+**Pankaj Bepari**
+- [GitHub Profile](https://github.com/pankaj72885)
+- [LinkedIn Profile](https://www.linkedin.com/in/pankaj-bepari-8aa69013a/)
 
 ---
